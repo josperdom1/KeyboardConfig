@@ -4,4 +4,5 @@ This is a set of keyboard macros I use in my 60% US layout keyboard via software
 
 Windows: https://www.autohotkey.com/
 
-Linux: https://en.wikipedia.org/wiki/AutoKey
+Linux: https://github.com/autokey/autokey
+credits: https://github.com/madslundt/keybindings
